@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset="UTF-8">
+    <title> TITLE </title>
+</head>
+<body>
+    <h1><u>Hello Investors</u></h1>
+    <h4><p> This is a selection of predicted duration for SP500 traders </p></h4>
+    <form action = "http://localhost:5000/handle_data" method = "post">
+        <label for = "contexts">Select a context:</label>
+            <select id = "contexts" name = "contexts">
+                <option value = "5_days">5 Days</option>
+                <option value = "1_month">1 Month</option>
+                <option value = "6_months">6 Months</option>
+                <option value = "1_year">1 Year</option>
+            </select> 
+            <br><br>
+        <input type = "submit" value = "Submit">
+    </form>
+
+</body>
+</html>
