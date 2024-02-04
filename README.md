@@ -1,1 +1,11 @@
-# first-sp500-stockprice-prediction
+My interest in machine learning, data analytics, and the stock market led me to choose this topic for my final year capstone project. I focused this project on one of many applications of machine learning in finance. The financial industry is growing and looking for ways to use machine learning because it has created efficient services that add value to the customers and clients with financial investments.![image](https://github.com/maryamuzakariya/first-sp500-stockprice-prediction/assets/31278384/dd523ce7-48fa-4faf-ad75-08cd6eaef714) in 2021. 
+This project shows how various efforts have been taken to apply machine learning in stock forecasting for the S&P500 index. I implemented it in python with open-source libraries. I got the historical data from yahoo finance and applied pre-processing methods to make the data relevant. Also, using the randomized grid search cross-validation, a hyper tuning process to validate the model for building, fitting, and training for prediction. After prediction, error analysis is crucial for identifying how the model performs and how accurate the predicted values are.![image](https://github.com/maryamuzakariya/first-sp500-stockprice-prediction/assets/31278384/b5466830-db4c-4cfa-9c2c-664eaa0091d1)
+The following libraries were installed before getting started.
+1.	Pandas — a python library that loads the data file as a pandas data frame for analyzing the data.
+2.	Matplotlib— a python package for plotting graphs.
+3.	Scikit-learn — an open-source python library used in data analysis that supports machine learning models, pre-processing, model evaluation, and training utilities. It also acts as a sub-library for train_test_split, RandomForestRegressor, StandardScaler, RandomizedSearchCV, and metrics.
+4.	Numpy— a python library that works with arrays.
+5.	Yfinance — a python open-source library used to access 
+![image](https://github.com/maryamuzakariya/first-sp500-stockprice-prediction/assets/31278384/e9c59b0a-408c-4c6d-95dd-185b58846aaa)
+
+The code was written in 2020/2021 during my undergraduate final year project. There will another upload with a more updated version as there has been so much i have learnt about machine learning in the last year. 
