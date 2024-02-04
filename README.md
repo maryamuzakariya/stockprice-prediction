@@ -11,4 +11,4 @@ The following libraries were installed before getting started.
 
    
 
-The code was written in 2020/2021 during my undergraduate final year project. There will another upload with a more updated version as there has been so much i have learnt about machine learning in the last year. 
+The code was written in 2020/2021 during my undergraduate final year project. There will be another upload with a more updated version, as I have learned so much about machine learning in the last year. 
